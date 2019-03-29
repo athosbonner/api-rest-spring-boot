@@ -17,7 +17,7 @@ public class ExtratoResouce {
 
 	public ExtratoResouce() throws Exception {
 
-		String json = "C:\\Users\\athos.da.c.marinho\\Documents\\Desafio\\lancamento-conta-legado.json";
+		String json = "C:\\lancamento-conta-legado.json";
 		ObjectMapper mapper = new ObjectMapper();
 
 		try {
